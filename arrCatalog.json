@@ -1,26 +1,26 @@
 [
-    {
-        "image": "img/card2.png",
-        "title": "ELLERY X M'O CAPSULE",
-        "price": 52,
-        "color": "Red",
-        "size": "XL",
-        "quantity": 2
-    },
-    {
-        "image": "img/card3.png",
-        "title": "T-SHIRT",
-        "price": 112,
-        "color": "Green",
-        "size": "L",
-        "quantity": 2
-    },
-    {
-        "image": "img/card3.png",
-        "title": "ELLERY X M'O CAPSULE",
-        "price": 52,
-        "color": "Red",
-        "size": "XL",
-        "quantity": 2
-    }
+    [
+         "img/card3.png",
+         "ELLERY X M'O CAPSULE",
+         52,
+         "Red",
+         "XL",
+         2
+    ],
+    [
+         "img/card2.png",
+         "ELLERY X M'O CAPSULE",
+         52,
+         "Red",
+         "XL",
+         2
+    ],
+    [
+         "img/card1.png",
+         "ELLERY X M'O CAPSULE",
+         52,
+         "Red",
+         "XL",
+         2
+    ]
 ]
